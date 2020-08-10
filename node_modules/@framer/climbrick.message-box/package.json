@@ -1,0 +1,32 @@
+{
+	"main": "build/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.0.31",
+		"framer": "^0.8.0"
+	},
+	"peerDependencies": {
+		"framer": "^0.8.0",
+		"react": "^16.3.0",
+		"react-dom": "^16.3.0"
+	},
+	"keywords": [
+		"toast",
+		"message",
+		"message box",
+		"dialog",
+		"banner",
+		"alert",
+		"component"
+	],
+	"framer": {
+		"id": "fa56e57a-c92d-4260-aebf-f650d9207349",
+		"displayName": "Message Box"
+	},
+	"author": "Chris Limbrick",
+	"dependencies": {
+		"@framer/climbrick.message-box": "^1.1.0"
+	},
+	"name": "@framer/climbrick.message-box",
+	"version": "1.2.0"
+}

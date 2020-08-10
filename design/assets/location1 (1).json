@@ -1,0 +1,18 @@
+[
+        {
+            "name": "Mississauga Hyundai",
+            "location": { "latitude": 43.532395, "longitude": -79.673868 },
+			"focusLocation": { "zoom": 14}
+        },
+	        {
+			
+            "name": "Cooksville Hyundai",
+            "location": { "latitude": 43.586625, "longitude": -79.608258 },
+			"focusLocation": { "zoom": 14}
+        },
+	      {
+            "name": "Hyundai Collision Centre",
+            "location": { "latitude": 43.442829, "longitude": -79.699031 },
+			"focusLocation": { "zoom": 14}
+        }
+    ]
