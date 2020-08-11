@@ -1,0 +1,13 @@
+[
+        {
+            "name": "Downey Nissan",
+            "location": { "latitude": 33.948062, "longitude": -118.151842 },
+			"focusLocation": { "zoom": 14}
+        },
+	        {
+			
+            "name": "Nissan Compton",
+            "location": { "latitude": 33.874750, "longitude": -118.233150 },
+			"focusLocation": { "zoom": 14}
+        }
+    ]
